@@ -1,0 +1,30 @@
+
+.gridacom{
+
+    display: grid;
+    grid-template-columns: 2fr 2fr ;
+
+    grid-template-rows: 2fr 2fr 2fr ;
+    grid-column-gap: 100px;
+    grid-row-gap: 60px;
+    justify-content: space-between;
+}
+.canillagasoil{
+    width: 100%;
+    height: 100%;
+    
+    
+    
+}
+.x10prod{
+    background-color: aquamarine;
+}
+.x10prod2{
+    background-color: green;
+}
+.menosemiciones{
+    background-color: lightcoral
+}
+.humosblancos{
+    background-color: lightseagreen;
+}
